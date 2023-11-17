@@ -4,7 +4,7 @@ import './globals.scss'
 
 const inter = Poppins({ 
   subsets: ['latin'], 
-  weight: ['400', '500', '600'] 
+  weight: ['300', '400', '500', '600'] 
 })
 
 export const metadata: Metadata = {
